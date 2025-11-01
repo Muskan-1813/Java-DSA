@@ -44,7 +44,7 @@ I’m starting my journey **from the very basics** — learning programming conc
 
 ---
 ### 🧩 Folder Structure
-
+```
 Java-DSA/
 │
 ├── Basics/
@@ -68,7 +68,7 @@ Java-DSA/
 ├── Sorting/
 ├── Searching/
 └── Recursion/
-
+```
 ### ⚙️ How to Run
 1. Clone the repository  
    ```bash
