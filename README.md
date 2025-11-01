@@ -43,34 +43,31 @@ I’m starting my journey **from the very basics** — learning programming conc
 - [ ] Greedy Algorithms  
 
 ---
-🧩 Folder Structure
+### 🧩 Folder Structure
+
 Java-DSA/
 │
 ├── Basics/
-│   ├── Flowcharts/
-│   ├── Variables/
-│   ├── Loops/
-│   └── Functions/
+│ ├── Flowcharts/
+│ ├── Variables/
+│ ├── Loops/
+│ └── Functions/
 │
 ├── OOPs/
-│   ├── ClassesObjects/
-│   ├── Inheritance/
-│   └── Polymorphism/
+│ ├── ClassesObjects/
+│ ├── Inheritance/
+│ └── Polymorphism/
 │
 ├── DataStructures/
-│   ├── Arrays/
-│   ├── LinkedList/
-│   ├── StackQueue/
-│   └── Trees/
+│ ├── Arrays/
+│ ├── LinkedList/
+│ ├── StackQueue/
+│ └── Trees/
 │
 └── Algorithms/
-    ├── Sorting/
-    ├── Searching/
-    └── Recursion/
-
-
-
----
+├── Sorting/
+├── Searching/
+└── Recursion/
 
 ### ⚙️ How to Run
 1. Clone the repository  
