@@ -45,7 +45,7 @@ public class Operators{
         System.out.println(!(3<2));
 
         //ASSIGNMENT OPERATORS
-        int R=5;
+        int R=51;
         System.out.println(R);
         System.out.println(R+=1);
         System.out.println(R-=1);
