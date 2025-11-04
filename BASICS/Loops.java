@@ -72,5 +72,25 @@ public class Loops{
             }
             System.out.println(s);
         }
+
+        //Prime number
+        int num1 = sc.nextInt();
+
+        if (num1 <= 1) {
+            System.out.println("Not a prime number");
+        } else {
+            boolean isPrime = true;
+            for (int j = 2; j <= num / 2; j++) {
+                if (num % j == 0) {
+                    isPrime = false;
+                    break;
+                }
+            }
+
+            if (isPrime)
+                System.out.println("Prime Number");
+            else
+                System.out.println("Not a prime number");
+        }
     }
 }
